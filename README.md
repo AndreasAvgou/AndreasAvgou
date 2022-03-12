@@ -2,6 +2,7 @@
 
 📫 How to reach me: andreas_ker@hotmail.com
 
+🔭 I’m currently working on data analyst - data science [projects](https://andreasavgou.github.io/) 
 <!--
 **AndreasAvgou/AndreasAvgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
