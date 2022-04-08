@@ -5,6 +5,8 @@
 💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis)
 
 🔭 I’m currently working on data analyst - data science - data engineering [projects](https://andreasavgou.github.io/) 
+
+🌱 I’m currently learning on data engineering courses 
 <!--
 **AndreasAvgou/AndreasAvgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
