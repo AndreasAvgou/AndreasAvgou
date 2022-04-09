@@ -7,6 +7,9 @@
 🔭 I’m currently working on data analyst - data science - data engineering [projects](https://andreasavgou.github.io/) 
 
 🌱 I’m currently learning on data engineering
+
+[![Andreas Avgoustis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAvgou)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AndreasAvgou/AndreasAvgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
