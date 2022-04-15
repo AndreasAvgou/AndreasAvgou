@@ -10,7 +10,12 @@
 
 [![Andreas Avgoustis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAvgou&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/github-readme-stats)
 [![Andreas Avgoustis's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAvgou&layout=compact&show_icons=true&theme=radical)](https://github.com/amarvin/amarvin)
- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Dermoscopic-Melanoma-Image-Classification&show_owner=true)](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification)
+
+
+ [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Dermoscopic-Melanoma-Image-Classification)](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification)
+  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Liver-Disease-Prediction)](https://github.com/AndreasAvgou/Liver-Disease-Prediction)
+   [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Sarcasm-Prediction-Model)](https://github.com/AndreasAvgou/Sarcasm-Prediction-Model)
+ 
 
 <!--
 **AndreasAvgou/AndreasAvgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
