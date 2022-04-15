@@ -10,8 +10,7 @@
 
 [![Andreas Avgoustis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAvgou&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/github-readme-stats)
 [![Andreas Avgoustis's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAvgou&layout=compact&show_icons=true&theme=radical)](https://github.com/amarvin/amarvin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+ [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Dermoscopic-Melanoma-Image-Classification&show_owner=true)](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification)
 
 <!--
 **AndreasAvgou/AndreasAvgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
