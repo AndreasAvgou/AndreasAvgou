@@ -4,13 +4,14 @@
 
 💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis)
 
-🔭 I’m currently working on data analyst - data science [projects](https://andreasavgou.github.io/) 
+ 
 
 🌱 I’m currently learning on data engineering
 
 [![Andreas Avgoustis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAvgou&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/github-readme-stats)
 [![Andreas Avgoustis's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAvgou&layout=compact&show_icons=true&theme=radical)](https://github.com/amarvin/amarvin)
 
+🔭 I’m currently working on data analyst - data science [projects](https://andreasavgou.github.io/)
 
  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Dermoscopic-Melanoma-Image-Classification&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification)
   [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Liver-Disease-Prediction&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/Liver-Disease-Prediction)
