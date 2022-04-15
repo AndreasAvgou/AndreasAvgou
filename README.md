@@ -12,9 +12,9 @@
 [![Andreas Avgoustis's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAvgou&layout=compact&show_icons=true&theme=radical)](https://github.com/amarvin/amarvin)
 
 
- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Dermoscopic-Melanoma-Image-Classification)](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification)
-  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Liver-Disease-Prediction)](https://github.com/AndreasAvgou/Liver-Disease-Prediction)
-   [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Sarcasm-Prediction-Model)](https://github.com/AndreasAvgou/Sarcasm-Prediction-Model)
+ [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Dermoscopic-Melanoma-Image-Classification&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification)
+  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Liver-Disease-Prediction&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/Liver-Disease-Prediction)
+   [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Sarcasm-Prediction-Model&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/Sarcasm-Prediction-Model)
  
 
 <!--
