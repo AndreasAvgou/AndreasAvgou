@@ -8,8 +8,8 @@
 
 🌱 I’m currently learning on data engineering
 
-[![Andreas Avgoustis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAvgou)](https://github.com/AndreasAvgou/github-readme-stats)
-[![Andreas Avgoustis's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAvgou)](https://github.com/amarvin/amarvin)
+[![Andreas Avgoustis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAvgou&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/github-readme-stats)
+[![Andreas Avgoustis's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAvgou&layout=compact&show_icons=true&theme=radical)](https://github.com/amarvin/amarvin)
 
 <!--
 **AndreasAvgou/AndreasAvgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
