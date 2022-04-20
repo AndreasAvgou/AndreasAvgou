@@ -2,7 +2,7 @@
 
 📫 How to reach me: andreas_ker@hotmail.com
 
-💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis)
+💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis) and [Twitter](https://twitter.com/andreasaugou)
 
  
 
