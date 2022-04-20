@@ -14,7 +14,7 @@
 🔭 I’m currently working on data analyst - data science [projects](https://andreasavgou.github.io/)
 
  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Dermoscopic-Melanoma-Image-Classification&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification)
-  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Liver-Disease-Prediction&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/Liver-Disease-Prediction)
+  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Eye-Gender-Patient&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/Eye-Gender-Patient)
    [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Sarcasm-Prediction-Model&show_icons=true&theme=radical)](https://github.com/AndreasAvgou/Sarcasm-Prediction-Model)
  
 
