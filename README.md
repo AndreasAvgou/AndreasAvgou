@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📫 How to reach me: andreas_ker@hotmail.com
+📫 How to reach me: andreas_ker@outlook.com.gr
 
 💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis) and [Twitter](https://twitter.com/andreasaugou)
 
