@@ -4,7 +4,7 @@
 
 💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis) and [Twitter](https://twitter.com/andreasaugou)
 
- 🔭 I’m currently working on data analyst - data science - data engineering [projects](https://andreasavgou.github.io/)
+ 🔭 I’m currently working on data analyst - machine learning - data engineering [projects](https://andreasavgou.github.io/)
 
 🌱 I’m currently learning on cloud data engineering(GCP and AWS)
 
