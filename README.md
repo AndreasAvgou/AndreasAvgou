@@ -8,8 +8,8 @@
 
 🌱 I’m currently learning on cloud data engineering(GCP-Azure)
 
-[![Andreas Avgoustis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAvgou&show_icons=true&include_all_commits=false)](https://github.com/AndreasAvgou/github-readme-stats)
-[![Andreas Avgoustis's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAvgou&layout=compact&show_icons=true)](https://github.com/amarvin/amarvin)
+[![Andreas Avgoustis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAvgou&show_icons=false&include_all_commits=false)](https://github.com/AndreasAvgou/github-readme-stats)
+[![Andreas Avgoustis's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAvgou&layout=compact&show_icons=false)](https://github.com/amarvin/amarvin)
 
 <!--
  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Data-Science-Projects&show_icons=true)](https://github.com/AndreasAvgou/Data-Science-Projects)
