@@ -2,7 +2,7 @@
 
 📫 How to reach me: andreas_ker@outlook.com.gr
 
-💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis) and [Twitter](https://twitter.com/andreasaugou)
+💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis) and [Instagram](https://www.instagram.com/andreasavg1/)
 
  🔭 I’m currently working on data analyst - machine learning - data engineering - stochastic analysis [projects](https://andreasavgou.github.io/)
 
