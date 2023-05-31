@@ -23,6 +23,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Microsoft Sql Server" alt="Microsoft Sql Server" width="40" height="40" color ="white"/>&nbsp;
 
 </div>
+
+## More Details
+![Screenshot](https://github.com/AndreasAvgou/AndreasAvgou.github.io/blob/main/images/adobe_express.jfif)
 <!--
  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Data-Science-Projects&show_icons=true)](https://github.com/AndreasAvgou/Data-Science-Projects)
   [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Data-Analytics-Projects&show_icons=true)](https://github.com/AndreasAvgou/Data-Analytics-Projects)
