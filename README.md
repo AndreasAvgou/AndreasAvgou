@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning on cloud data engineering(Azure)
 
-[![Andreas Avgoustis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAvgou&show_icons=false&theme=vision-friendly-dark&include_all_commits=false)](https://github.com/AndreasAvgou/github-readme-stats)
+[![Andreas Avgoustis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAvgou&show_icons=false&theme=vision-friendly-dark&include_all_commits=false)](https://github.com/anuraghazr/github-readme-stats)
 [![Andreas Avgoustis's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAvgou&layout=compact&theme=vision-friendly-dark&show_icons=false)](https://github.com/amarvin/amarvin)
 
 <div>
