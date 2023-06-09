@@ -4,7 +4,7 @@
 
 💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis) and [Instagram](https://www.instagram.com/andreasavg1/)
 
- 🔭 I’m currently working on data analyst - machine learning - data engineering - stochastic analysis [projects](https://andreasavgou.github.io/)
+ 🔭 I’m currently working on data engineering - stochastic analysis [projects](https://andreasavgou.github.io/)
 
 🌱 I’m currently learning on cloud data engineering(Azure)
 
