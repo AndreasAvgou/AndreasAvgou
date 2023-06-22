@@ -9,11 +9,10 @@
 </div>
 <div id="header">
  <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-## Hi there 👋
 
 📫 How to reach me: andreas_ker@outlook.com.gr
 
