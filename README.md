@@ -14,8 +14,7 @@
 </h1>
 </div>
 
-📫 How to reach me: andreas_ker@outlook.com.gr
-
+📫 How to reach me: andreasav@alfaedu.gr
 💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis) and [Instagram](https://www.instagram.com/andreasavg1/)
 
  🔭 I’m currently working on data engineering - stochastic analysis [projects](https://andreasavgou.github.io/)
