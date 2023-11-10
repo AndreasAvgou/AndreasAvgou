@@ -14,7 +14,7 @@
 </h1>
 </div>
 
-📫 How to reach me: andreasav@alfaedu.gr
+📫 How to reach me: andreas_ker@outlook.com.gr
 
 💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis) and [Instagram](https://www.instagram.com/andreasavg1/)
 
