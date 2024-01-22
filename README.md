@@ -38,8 +38,7 @@
 
 </div>
 
-## More Details
-![Screenshot](https://github.com/AndreasAvgou/AndreasAvgou.github.io/blob/main/images/adobe_express.jfif)
+
 <!--
  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Data-Science-Projects&show_icons=true)](https://github.com/AndreasAvgou/Data-Science-Projects)
   [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Data-Analytics-Projects&show_icons=true)](https://github.com/AndreasAvgou/Data-Analytics-Projects)
