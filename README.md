@@ -1,3 +1,15 @@
+<div id="header">
+ <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+I'm a Phd Candidate in Informatics from [Ionian University](https://di.ionio.gr/en/), also holding MSc in Big Data Driven Networked Systems and BSc in Informatics from the same institution. My academic journey has equipped me with a solid foundation in technology and a keen aptitude for tackling complex problems. I've honed my skills in big data analysis and engineer and machine and deep learning, delivering innovative and quality solutions.
+
+I enjoy collaborative environments where I can apply my theoretical knowledge and technical skills to make a meaningful contribution and develop in a dynamic working environment. I am driven by a constant desire to learn and expand my skills, with the aim of developing projects that are not only impressive but also impactful.
+
+If you're interested in connecting or have any questions, feel free to reach out by [opening an issue on my GitHub](https://github.com/AndreasAvgou/AndreasAvgou/issues/new).
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
@@ -7,12 +19,7 @@
   </a>
  <img src="https://komarev.com/ghpvc/?username=AndreasAvgou&style=flat-circle&color=red" alt=""/>
 </div>
-<div id="header">
- <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+
 
 📫 How to reach me: andreas_ker@outlook.com.gr
 
