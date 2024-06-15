@@ -5,11 +5,13 @@
 </h1>
 </div>
 
-I'm a Phd Candidate in Informatics from [Ionian University](https://di.ionio.gr/en/), also holding MSc in Big Data Driven Networked Systems and BSc in Informatics from the same institution. My academic journey has equipped me with a solid foundation in technology and a keen aptitude for tackling complex problems. I've honed my skills in big data analysis and engineer and machine and deep learning, delivering innovative and quality solutions.
+I am a PhD candidate in Informatics at [Ionian University](https://di.ionio.gr/en/), where I also earned my MSc in Big Data Driven Networked Systems and BSc in Informatics. My academic journey has provided me with a robust foundation in technology and a deep aptitude for solving intricate problems. I have developed strong expertise in big data analysis, engineering, as well as machine learning and deep learning, consistently delivering innovative and high-quality solutions.
+
+I thrive in collaborative settings where I can leverage my theoretical knowledge and technical expertise to make significant contributions while growing within a dynamic environment. Driven by an unyielding passion for learning and skill expansion, my goal is to develop projects that are both impressive and impactful.
 
 I enjoy collaborative environments where I can apply my theoretical knowledge and technical skills to make a meaningful contribution and develop in a dynamic working environment. I am driven by a constant desire to learn and expand my skills, with the aim of developing projects that are not only impressive but also impactful.
 
-If you're interested in connecting or have any questions, feel free to reach out by [opening an issue on my GitHub](https://github.com/AndreasAvgou/AndreasAvgou/issues/new).
+If you'd like to connect or have any questions, please feel free to reach out by [opening an issue on my GitHub](https://github.com/AndreasAvgou/AndreasAvgou/issues/new).
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
