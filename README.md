@@ -9,8 +9,6 @@ I am a PhD candidate in Informatics at [Ionian University](https://di.ionio.gr/e
 
 I thrive in collaborative settings where I can leverage my theoretical knowledge and technical expertise to make significant contributions while growing within a dynamic environment. Driven by an unyielding passion for learning and skill expansion, my goal is to develop projects that are both impressive and impactful.
 
-I enjoy collaborative environments where I can apply my theoretical knowledge and technical skills to make a meaningful contribution and develop in a dynamic working environment. I am driven by a constant desire to learn and expand my skills, with the aim of developing projects that are not only impressive but also impactful.
-
 If you'd like to connect or have any questions, please feel free to reach out by [opening an issue on my GitHub](https://github.com/AndreasAvgou/AndreasAvgou/issues/new).
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
