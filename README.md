@@ -27,7 +27,7 @@ If you'd like to connect or have any questions, please feel free to reach out by
 
  🔭 I’m currently working on data engineering [projects](https://andreasavgou.github.io/)
 
-🌱 I’m currently learning on python web and app development
+🌱 I’m currently learning flutter web and app development
 
 [![Andreas Avgoustis's GitHub stats](https://github-readme-stats-andreasavgou.vercel.app//api?username=AndreasAvgou&show_icons=false&theme=vision-friendly-dark&include_all_commits=false)](https://github.com/AndreasAvgou/github-readme-stats)
 [![Andreas Avgoustis's github top languages](https://github-readme-stats-andreasavgou.vercel.app/api/top-langs/?username=AndreasAvgou&layout=compact&theme=vision-friendly-dark&show_icons=false)](https://github.com/AndreasAvgou/github-readme-stats)
