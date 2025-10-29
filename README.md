@@ -36,7 +36,6 @@ If you'd like to connect or have any questions, please feel free to reach out by
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jypyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="PowerBI" alt="PowerBI" width="40" height="40" color ="white"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40" color ="white"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40" color ="white"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft Sql Server" alt="Microsoft Sql Server" width="40" height="40" color ="white"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40" color ="white"/>&nbsp;
@@ -50,7 +49,7 @@ If you'd like to connect or have any questions, please feel free to reach out by
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" color ="white"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" color ="white"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="PremierePro" alt="PremierePro" width="40" height="40" color ="white"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40" color ="white"/>&nbsp;
+
 
 
  
