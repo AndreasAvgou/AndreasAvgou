@@ -25,7 +25,7 @@ If you'd like to connect or have any questions, please feel free to reach out by
 
 💬 Follow me on [Linkedln](https://www.linkedin.com/in/andreasavgoustis) and [Instagram](https://www.instagram.com/andreasavg1/)
 
- 🔭 I’m currently working on data engineering [projects](https://andreasavgou.github.io/)
+🔭 I’m currently working on data engineering [projects](https://andreasavgou.github.io/)
 
 🌱 I’m currently learning flutter web and app development
 
