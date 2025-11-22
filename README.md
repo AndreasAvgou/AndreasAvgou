@@ -5,9 +5,7 @@
 </h1>
 </div>
 
-I am a PhD candidate in Informatics at [Ionian University](https://di.ionio.gr/en/), where I also earned my MSc in Big Data Driven Networked Systems and BSc in Informatics. My academic journey has provided me with a robust foundation in technology and a deep aptitude for solving intricate problems. I have developed strong expertise in big data analysis, engineering, as well as machine learning and deep learning, consistently delivering innovative and high-quality solutions.
-
-I thrive in collaborative settings where I can leverage my theoretical knowledge and technical expertise to make significant contributions while growing within a dynamic environment. Driven by an unyielding passion for learning and skill expansion, my goal is to develop projects that are both impressive and impactful.
+AI/ML Engineer & PhD Researcher with strong academic foundations including an MSc in Big Data Driven Networked Systems and ongoing PhD studies in Informatics. Specializing in Deep Learning, Computer Vision, and large-scale data processing. Experienced in designing, training, and deploying advanced neural architectures (CNNs, LSTMs, Transformers) for real-time and healthcare-focused applications. Strong engineering background with hands-on expertise in Python, PyTorch, TensorFlow, SQL, Spark, Docker, and cloud platforms (GCP, Azure). Published researcher with contributions in multimodal learning, text simplification, seismology signal processing, and medical image analysis. Adept at building end-to-end ML pipelines, optimizing performance, and translating research innovations into production-grade systems.
 
 If you'd like to connect or have any questions, please feel free to reach out by [opening an issue on my GitHub](https://github.com/AndreasAvgou/AndreasAvgou/issues/new).
 <div id="header" align="center">
