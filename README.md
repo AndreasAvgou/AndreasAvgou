@@ -43,9 +43,8 @@ If you'd like to connect or have any questions, please feel free to reach out by
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="PowerBI" alt="PowerBI" width="40" height="40" color ="white"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft Sql Server" alt="Microsoft Sql Server" width="40" height="40" color ="white"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40" color ="white"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40" color ="white"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" color ="white"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" color ="white"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" color ="white"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" color ="white"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="PremierePro" alt="PremierePro" width="40" height="40" color ="white"/>&nbsp;
 
