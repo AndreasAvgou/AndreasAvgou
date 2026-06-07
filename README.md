@@ -1,9 +1,15 @@
-<div id="header">
- <h1>
+
+<div align="center">
+ <img width="800" height="310" alt="0_F12vyoUtNC6qE-5j" src="https://github.com/user-attachments/assets/cb68aa1f-09b9-4b84-a80d-58bed15db284" />
+
+
+<h1>
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  
 </div>
+
 
 I am an AI/ML Engineer & Researcher with strong academic foundations including an MSc in Big Data Driven Networked Systems and ongoing PhD studies in Informatics. Specializing in Deep Learning, Computer Vision, and large-scale data processing. Experienced in designing, training, and deploying advanced neural architectures (CNNs, LSTMs, Transformers) for real-time and healthcare-focused applications. Strong engineering background with hands-on expertise in Python, PyTorch, TensorFlow, SQL, Spark, Docker, and cloud platforms. 
 
