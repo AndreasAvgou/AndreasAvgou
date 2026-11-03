@@ -10,7 +10,6 @@
   
 </div>
 
-
 I am an AI/ML Engineer & Researcher with strong academic foundations, currently pursuing a PhD in Informatics and holding a MSc in Big Data Driven Networked Systems. I am dedicated to translating complex research innovations into production-grade systems that solve real-world challenges.
 
 My expertise lies in Deep Learning and Computer Vision, with extensive experience in designing, training, and deploying advanced neural architectures like CNNs, LSTMs, and Transformers. I specialize in building end-to-end ML pipelines and optimizing performance for real-time applications, leveraging a technical stack that includes Python, PyTorch, TensorFlow and Docker.
@@ -18,6 +17,7 @@ My expertise lies in Deep Learning and Computer Vision, with extensive experienc
 As a published researcher, I have contributed to diverse fields such as medical image analysis, text simplification, and seismology signal processing. My work focuses on large-scale data processing and multimodal learning, specifically for healthcare-focused and real-time systems.
 
 If you'd like to connect or have any questions, please feel free to reach out by [opening an issue on my GitHub](https://github.com/AndreasAvgou/AndreasAvgou/issues/new).
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
