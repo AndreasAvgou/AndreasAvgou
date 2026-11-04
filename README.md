@@ -54,30 +54,4 @@ If you'd like to connect or have any questions, please feel free to reach out by
 
 
 
- 
-
 </div>
-
-
-<!--
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40" color ="white"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40" color ="white"/>&nbsp;
- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Data-Science-Projects&show_icons=true)](https://github.com/AndreasAvgou/Data-Science-Projects)
-  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Data-Analytics-Projects&show_icons=true)](https://github.com/AndreasAvgou/Data-Analytics-Projects)
-   [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=AndreasAvgou&repo=Data-Engineering-Projects&show_icons=true)](https://github.com/AndreasAvgou/Data-Engineering-Projects)
- -->
-
-<!--
-**AndreasAvgou/AndreasAvgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
